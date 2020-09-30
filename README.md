@@ -1,1 +1,1 @@
-# my application
+# Sample application
